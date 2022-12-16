@@ -1,2 +1,2 @@
-# DSP1_Re3_Retroarch
+# DSP1_Re3
 extra roms in it
